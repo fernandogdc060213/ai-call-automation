@@ -23,3 +23,6 @@ This workflow was designed for outbound prospecting in a logistics environment, 
 
 ## Notes
 This repository contains a sanitized version of the project for portfolio purposes. Sensitive data, credentials, and client-specific information have been removed.
+## Preview
+
+![Automation Console](./control panel.jpeg)
